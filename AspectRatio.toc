@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: AspectRatio
+## Notes: Reminds hunters when no aspect is active.
+## Author: hjalte
+## Version: @project-version@
+## IconTexture: Interface\Icons\Spell_Nature_RavenForm
+## SavedVariables: AspectRatioDB
+## X-License: MIT
+## X-Website: https://github.com/hjaltethor/AspectRatio
+
+AspectRatio.lua
+Options.lua

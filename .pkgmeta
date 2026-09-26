@@ -1,0 +1,4 @@
+package-as: AspectRatio
+
+ignore:
+  - README.md
