@@ -7,6 +7,7 @@
 ## SavedVariables: AspectRatioDB
 ## X-License: MIT
 ## X-Website: https://github.com/hjaltethor/AspectRatio
+## X-Curse-Project-ID: 1712185
 
 AspectRatio.lua
 Options.lua
