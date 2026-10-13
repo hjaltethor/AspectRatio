@@ -79,7 +79,7 @@ end
 ---------------------------------------------------------------------------
 local frame = CreateFrame("Frame", "AspectRatioFrame", UIParent)
 frame:SetSize(56, 56)
-frame:SetFrameStrata("HIGH")
+frame:SetFrameStrata("MEDIUM")
 frame:SetClampedToScreen(true)
 frame:SetMovable(true)
 frame:RegisterForDrag("LeftButton")
